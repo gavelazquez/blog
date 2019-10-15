@@ -1,0 +1,11 @@
+article{
+  color: gray;  
+}
+header{
+    color: hotpink;
+    background-color: honeydew;
+}
+footer{
+    background-color: honeydew;
+    border: dotted;
+}
